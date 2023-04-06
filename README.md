@@ -16,7 +16,7 @@ Assumption: there is low students engagements/enrollment in courses and tests
 * Why an Irrelevant course curriculum? Irrelevant topics covered, resources used, assessments, mode of instructions
 
 ## Data extracted from the app
-click here[](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit#gid=574660071) to access the data
+click [here](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit#gid=574660071) to access the data
 ## Dataset description and structure
 
 ## Data analysis plan
@@ -33,6 +33,7 @@ It was achieved by using a power pivot
 Pivot tables and pivot charts were used to summarize data and identify trends and patterns
 
 ## Report visuals
+To interact with a report click [here](https://1drv.ms/x/s!AkvFVdfC21wYhFqbVoFeqh8XO6xD)
 
 ## Insights
 
