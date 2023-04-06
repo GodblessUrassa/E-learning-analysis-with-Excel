@@ -42,9 +42,9 @@ Power query was used for data cleaning, data transformation, and data merging. T
 
 * Data merging – enrollment and course datasets were merged also quizdim and course were merged
 
-enrollment and course      |   quizdim and course
+enrollment and course      | QuizDim and course
 :-------------------------:|:-------------------------:
-![](merging_queries.jpg)   |![](merging_query 2.jpg)                        
+![](merging_queries.jpg)   |![](merging_query_2.jpg)                        
 
 ## Data modeling
 
