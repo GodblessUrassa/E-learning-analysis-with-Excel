@@ -20,7 +20,7 @@ Therefore improving course curriculum will improve students engagement
 ## Data extracted from the app
 click [here](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit#gid=574660071) to access the data
 
-## Datasets descriptions and structures
+## Metadata
 ![](fields_descriptions.jpg)
 
 #### Tables structures
