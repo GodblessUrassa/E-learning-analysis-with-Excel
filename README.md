@@ -19,6 +19,7 @@ Assumption: there is low students engagements/enrollment in courses and tests
 click [here](https://docs.google.com/spreadsheets/d/1M3INoxFT5tzmjaDOS68TG4xfx7x4LERd/edit#gid=574660071) to access the data
 ## Dataset description and structure
 
+
 ## Data analysis plan
 The tool used for this project is MS Excel. The tool was used because the data was small, simple analysis and basic charts were used
 ### Data manipulation
